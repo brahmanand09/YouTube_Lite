@@ -14,6 +14,9 @@
 * Showcased the ability to work on a complex project independently, improving code organization, and managing project components efficiently.
   ![Screenshot (83)](https://github.com/brahmanand09/YouTube_Lite/assets/123508275/29474425-c507-4fae-a6de-de6b695bd3eb)
 
+  ![Screenshot (84)](https://github.com/brahmanand09/YouTube_Lite/assets/123508275/ccb564f2-8a7a-45e1-b209-297de923af02)
+
+
 
 # Getting Started with Create React App
 
