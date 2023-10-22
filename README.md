@@ -3,7 +3,7 @@
 * Developed a YouTube Clone using HTML, CSS, JavaScript, and React.js to replicate the core features and functionality of the popular video-sharing platform.
 ### Key Accomplishments: 
 * Created a responsive and user-friendly front-end interface that closely mimics the design and layout of YouTube, ensuring a seamless user experience.
-* Implemented video playback, user authentication, and video search functionality using React.js components and state management, enhancing the platform's interactivity and user engagement.
+* Implemented video playback and video search functionality using React.js components and state management, enhancing the platform's interactivity and user engagement.
 * Utilized HTML and CSS for structuring and styling the application, ensuring a visually appealing and cohesive design, while adhering to modern web development best practices.
 ### Technologies and Skills Demonstrated: 
 * Demonstrated proficiency in HTML, CSS, and JavaScript to build the project's foundational structure and design.
