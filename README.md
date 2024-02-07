@@ -18,8 +18,6 @@
 
   ![Screenshot (84)](https://github.com/brahmanand09/YouTube_Lite/assets/123508275/ccb564f2-8a7a-45e1-b209-297de923af02)
 
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
